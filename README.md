@@ -3,7 +3,7 @@
     </div> <br>  
     <p align="left">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👤 About Me </h3>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 🌱 안녕하세요, AI 엔지니어를 꿈 꾸는 유서연입니다!</li><li> 💫 문제를 데이터로 들여다보고, 인공지능으로 풀어가는 걸 좋아합니다. </div> <br> <br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 🌱 안녕하세요, AI 엔지니어를 꿈 꾸는 유서연입니다!</li><li> 💫 데이터로 문제를 들여다보고, 인공지능으로 풀어가는 걸 좋아합니다. </div> <br> <br> 
     </div>
     <p align="left">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h3>
