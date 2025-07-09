@@ -8,7 +8,6 @@
     <p align="left">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h3>
     <div style="margin: 0 auto; text-align: center;" align= "left"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> 
