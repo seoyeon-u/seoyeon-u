@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> 
-  <img src="https://user-images.githubusercontent.com/81547780/151382642-730da5c5-5f6b-42da-b900-23a85253863a.svg"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
