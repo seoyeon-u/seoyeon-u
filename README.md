@@ -14,7 +14,11 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat&logo=Langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/vLLM-3B4EFF?style=flat&logo=lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"><br>
           </div>     
     </div>
     
